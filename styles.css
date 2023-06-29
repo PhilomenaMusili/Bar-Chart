@@ -1,1 +1,52 @@
 
+*{
+    font-family: 'Impact', sans-serif;
+}
+
+html{
+    height: 100%
+}
+
+body {
+    background-color: #d2e3e2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+svg{
+    background-color: #DEF2F1;
+    box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    padding: 10px;
+    
+}
+
+.bar{
+    background-color: #041a19;
+    border-color: #0b3130;
+    fill: #a75d77;
+    
+}
+
+.bar:hover{
+    fill: #17252A
+}
+
+g{
+    color: #7e3b5f
+}
+
+#tooltip{
+    margin-top: 10px;
+    color: #071152;
+    font-size: 30px;
+}
+
+#title{
+    font-size: 30px;
+    fill: #17252A;
+}
+
