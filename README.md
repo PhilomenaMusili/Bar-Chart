@@ -2,7 +2,7 @@
 
 This project is a simple web application that displays a bar chart representing the Gross Domestic Product (GDP) data of the USA. The bar chart is created using D3.js, a powerful JavaScript library for data visualization.
  ## Preview
-![Bar Chart Preview](preview.png)
+![Bar Chart Preview](barChart.png)
 
 ## Features
 
